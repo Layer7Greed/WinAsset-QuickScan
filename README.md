@@ -23,3 +23,5 @@ As noted in the code comments, please be aware that for some brands (specificall
 3. **Run the script**:
    ```powershell
    .\Get-Inventory.ps1
+
+## 📥 [Download the Script Here](Get-HardwareInventory.ps1)
