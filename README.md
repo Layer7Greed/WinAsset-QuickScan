@@ -24,4 +24,4 @@ As noted in the code comments, please be aware that for some brands (specificall
    ```powershell
    .\Get-Inventory.ps1
 
-## 📥 [Download the Script Here](Get-HardwareInventory.ps1)
+## 📥 [Download the Script Here](Get-Inventory.ps1)
